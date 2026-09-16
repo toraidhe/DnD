@@ -50,7 +50,10 @@ If you already know the Dancing Lights cantrip when you gain this feature, you i
 
 The lights created by this spell can appear as silvery, pale blue, blue-white, or other moonlit hues appropriate to your faith.
 
-\column
+\page
+
+{{pageNumber,auto}}
+{{footnote SWORD DANCER DOMAIN | CLERIC SUBCLASS}}
 
 ### Level 3: Channel Divinity: Sword Song
 
@@ -84,10 +87,7 @@ A creature must be able to hear the Singing Sword to benefit from the aura. The 
 
 At **17th level**, the radius of your Song of Courage increases to **30 feet**.
 
-\page
-
-{{pageNumber,auto}}
-{{footnote SWORD DANCER DOMAIN | CLERIC SUBCLASS}}
+\column
 
 ### Level 6: Sword Dance
 
@@ -132,7 +132,10 @@ Each time you activate Sword Song, your Dancing Sword can perform a number of **
 
 A Dance is expended when the Dancing Sword makes a **Dancing Strike** or uses **Dancing Parry**. Any unused Dances are lost when Sword Song ends.
 
-\column
+\page
+
+{{pageNumber,auto}}
+{{footnote SWORD DANCER DOMAIN | CLERIC SUBCLASS}}
 
 #### Dancing Parry
 
