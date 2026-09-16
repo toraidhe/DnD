@@ -9,7 +9,7 @@ Sword Dancers practice a sacred tradition combining swordplay, song, dance, moon
 Their blades sing heroic hymns, dance independently through the air, and become extensions of the Sword Dancer's divine devotion. Through practice and faith, a Sword Dancer learns to weave swordsmanship, divine spellcasting, and sacred song into a single flowing performance.
 
 <div style='text-align: center; clear: both; margin: 6px 0 10px 0;'>
-<img src='https://files-cdn.x.ai/NgLv8V_yTsCAQeqPphTgGw/file_a007da10-1d9c-41ce-8394-f71855868cd4.png' alt='The Sword Song Beneath the Moon' style='width: 30%; display: block; margin: 0 auto;' />
+<img src='https://files-cdn.x.ai/NgLv8V_yTsCAQeqPphTgGw/file_a007da10-1d9c-41ce-8394-f71855868cd4.png' alt='The Sword Song Beneath the Moon' style='width: 55%; display: block; margin: 0 auto;' />
 </div>
 *The Sword Song Beneath the Moon.* Concept art for a Sword Dancer's sacred performance. ([Archival copy](images/sword-dancer-moonlit-song.jpg).)
 
