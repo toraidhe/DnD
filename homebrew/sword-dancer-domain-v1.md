@@ -8,6 +8,11 @@ Sword Dancers practice a sacred tradition combining swordplay, song, dance, moon
 
 Their blades sing heroic hymns, dance independently through the air, and become extensions of the Sword Dancer's divine devotion. Through practice and faith, a Sword Dancer learns to weave swordsmanship, divine spellcasting, and sacred song into a single flowing performance.
 
+<div style='text-align: center; clear: both; margin: 6px 0 10px 0;'>
+<img src='https://files-cdn.x.ai/NgLv8V_yTsCAQeqPphTgGw/file_a007da10-1d9c-41ce-8394-f71855868cd4.png' alt='The Sword Song Beneath the Moon' style='width: 30%; display: block; margin: 0 auto;' />
+</div>
+*The Sword Song Beneath the Moon.* Concept art for a Sword Dancer's sacred performance. ([Archival copy](images/sword-dancer-moonlit-song.jpg).)
+
 ### Sword Dancer Domain Features
 
 | Cleric Level | Features |
@@ -173,6 +178,11 @@ Sword Dance doesn't require Concentration.
 
 {{pageNumber,auto}}
 {{footnote SWORD DANCER DOMAIN | CLERIC SUBCLASS}}
+
+<div style='text-align: center; clear: both; margin: 4px 0 8px 0;'>
+<img src='https://files-cdn.x.ai/wGPeDl8HQCadaef1Pi4IXQ/file_764aff3e-e164-4a92-b3a0-b6f0a54fa401.png' alt='Dancing Parry' style='width: 100%; display: block; margin: 0 auto;' />
+</div>
+*Dancing Parry.* A Sword Dancer's enchanted blade crosses the battlefield to shield an ally beneath the Song of Courage. ([Archival copy](images/sword-dancer-dancing-parry.jpg).)
 
 ### Level 6: Spellsong
 
