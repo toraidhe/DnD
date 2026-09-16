@@ -179,9 +179,11 @@ Sword Dance doesn't require Concentration.
 {{pageNumber,auto}}
 {{footnote SWORD DANCER DOMAIN | CLERIC SUBCLASS}}
 
+{{wide
 <div style='text-align: center; clear: both; margin: 4px 0 8px 0;'>
 <img src='https://files-cdn.x.ai/wGPeDl8HQCadaef1Pi4IXQ/file_764aff3e-e164-4a92-b3a0-b6f0a54fa401.png' alt='Dancing Parry' style='width: 100%; display: block; margin: 0 auto;' />
 </div>
+}}
 *Dancing Parry.* A Sword Dancer's enchanted blade crosses the battlefield to shield an ally beneath the Song of Courage. ([Archival copy](images/sword-dancer-dancing-parry.jpg).)
 
 ### Level 6: Spellsong
