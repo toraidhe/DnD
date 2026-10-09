@@ -4,9 +4,12 @@
 # Sword Dancer Domain
 *Cleric Subclass for D&D 5.5e / 2024 Rules — Version 1*
 
-Sword Dancers practice a sacred tradition combining swordplay, song, dance, moonlight, and divine magic. Most closely associated with **Eilistraee, the Dark Maiden**, Sword Dancers transform combat into both prayer and performance.
+Sword Dancers are the specialty priests of **Eilistraee, the Dark Maiden**—artists, diplomats, protectors, and sword wielders whose worship is expressed through music, moonlight, dance, and graceful combat. Their calling is not simply to win battles: they nurture beauty and joy, guide drow toward a life on the surface, and foster harmony between drow and other peoples.
 
-Their blades sing heroic hymns, dance independently through the air, and become extensions of the Sword Dancer's divine devotion. Through practice and faith, a Sword Dancer learns to weave swordsmanship, divine spellcasting, and sacred song into a single flowing performance.
+A Sword Dancer may live near a settlement, offering food, healing, protection, and a welcome to those leaving Lolth's shadow. In combat, their blades sing heroic hymns, dance independently through the air, and become extensions of divine devotion. Through practice and faith, a Sword Dancer learns to weave swordsmanship, divine spellcasting, and sacred song into a single flowing performance.
+
+> ##### Tradition and Calling
+> Traditional accounts describe a Sword Dancer's initiation as a month on the surface, dancing beneath moonlight each night and witnessing dawn at least once. The order values song, dance, acrobatics, diplomacy, and frontline protection. They are not bound by a rigid hierarchy: local circles answer to Eilistraee and to their own conscience. Older accounts often present them as female drow, elves, half-drow, and half-elves of Chaotic Good, Chaotic Neutral, or Neutral Good alignment. In a 2024 campaign, treat these as story touchstones rather than ancestry, gender, or alignment prerequisites unless the table chooses otherwise.
 
 <div style='text-align: center; clear: both; margin: 6px 0 10px 0;'>
 <img src='https://files-cdn.x.ai/NgLv8V_yTsCAQeqPphTgGw/file_a007da10-1d9c-41ce-8394-f71855868cd4.png' alt='The Sword Song Beneath the Moon' style='width: 100%; display: block; margin: 0 auto;' />
@@ -47,13 +50,15 @@ You also gain proficiency in the **Performance** skill. If you already have prof
 
 For the purposes of this subclass, sword weapons include weapons such as the **Longsword, Shortsword, Scimitar, Rapier, and Greatsword**, as well as other weapons the DM determines are swords.
 
+The tradition teaches that a performance can be prayer, diplomacy, celebration, or a signal of welcome. Sword Dancers are expected to bring beauty and practical aid to the communities they protect, not merely to win fights.
+
 ### Level 3: Moonlights
 
 You learn the **Dancing Lights** cantrip. It counts as a Cleric spell for you and doesn't count against the number of Cleric cantrips you know.
 
 If you already know the Dancing Lights cantrip when you gain this feature, you instead learn one cantrip of your choice from the Cleric spell list.
 
-The lights created by this spell can appear as silvery, pale blue, blue-white, or other moonlit hues appropriate to your faith.
+The lights created by this spell can appear as silvery, pale blue, blue-white, or other moonlit hues appropriate to your faith. These Moonlights are your personal expression of Eilistraee's moonfire.
 
 \page
 
@@ -62,7 +67,7 @@ The lights created by this spell can appear as silvery, pale blue, blue-white, o
 
 ### Level 3: Channel Divinity: Sword Song
 
-You learn to form a sacred bond with a chosen sword and awaken the divine music within it.
+You learn to form a sacred bond with a chosen sword and awaken the divine music within it. In the oldest songs of the tradition, a bonded blade sharpens its dancer's precision and rallies the hearts of everyone who can hear it.
 
 You can perform a **1-hour rite** of prayer, song, and meditation while remaining in contact with a sword. At the conclusion of the rite, that weapon becomes your **Singing Sword**.
 
@@ -188,7 +193,7 @@ Sword Dance doesn't require Concentration.
 
 ### Level 6: Spellsong
 
-Your sacred song allows you to shape divine magic instinctively, weaving prayer and spellcasting into the rhythm of your dance.
+Your sacred song allows you to shape divine magic instinctively, weaving prayer and spellcasting into the rhythm of your dance. A Sword Dancer can sing magic amid the chaos of battle, even while dodging, moving, or fighting through pain.
 
 You gain the following benefits while your **Sword Song is active**.
 
@@ -227,6 +232,9 @@ You can still use Improvised Verse only **once during each activation of Sword S
 #### Unbroken Spellsong
 
 While Sword Song is active, you have **Advantage on Constitution saving throws you make to maintain Concentration on a Cleric spell**.
+
+> ##### The Spellsong Choir
+> The greatest miracles of Eilistraee's clergy are often communal. When several Sword Dancers sing together, their voices can amplify healing, protection, moonlight, and other magic far beyond the reach of one performer. This subclass models the individual Sword Dancer; a DM can treat a choir as a group ritual, faction resource, or adventure reward rather than adding another required combat subsystem.
 
 ### Level 17: Greater Song of Courage
 
